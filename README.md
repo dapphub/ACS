@@ -6,6 +6,8 @@
 * Denis Erfurt
 * Rain Break
 * Mikael Brockman
+* Martin Lundfall
+* Zachary Larson
 
 ## Purpose:
 
