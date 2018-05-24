@@ -21,6 +21,5 @@ Make a decision about what smart contract platforms deserve our focus
 
 Make applied computer science more accessible to non-experts
 
-Figure out the bridge between blockchain and the semantic web
 
 
